@@ -1372,6 +1372,18 @@ h3#comments {
     margin-bottom: 3%;
 }
 
+.section .column.half {
+    width: 50%;
+}
+
+#equalize {
+    width: 100% !important;
+}
+
+.coder-cred img { 
+    
+}
+
 .section .column.fourth{
   width: 25%;
 }
